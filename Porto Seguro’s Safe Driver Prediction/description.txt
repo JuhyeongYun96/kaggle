@@ -1,0 +1,4 @@
+Assembled the top 1% of the kernel and several others.
+As far as I know, it yielded better results than all published kernels.
+There may be a better score kernel that I haven't seen.
+The Kaggle private score is 0.29171 and is equivalent to 15th place.
