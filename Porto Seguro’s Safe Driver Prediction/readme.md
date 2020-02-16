@@ -1,4 +1,4 @@
-# Kaggle private score 0.29171(15th place)
+# Kaggle private score 0.29191(7th place)
 
 Assembled the top 1% kernel(private score 0.288) and other kernels that have been published.
 
