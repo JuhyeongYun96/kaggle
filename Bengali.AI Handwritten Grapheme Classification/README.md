@@ -5,7 +5,7 @@ efficientnet, se_resnext_50, ghostnet, densenet121 ensembles
 
 Each model has a public score of no more than 0.97 when submitted as a single model.
 
-se_resnext_50's cv score was high, so we weighted to se_resnext_50.
+se_resnext_50 cv score was high, so we weighted to se_resnext_50.
 
 
 #
