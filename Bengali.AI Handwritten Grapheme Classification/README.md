@@ -1,4 +1,4 @@
-# top 16%(320th, Private 0.9272, Public 0.9761) raw file
+# top 16%(318th, Private 0.9272, Public 0.9761) raw file
 
 
 efficientnet, se_resnext_50, ghostnet, densenet121 ensembles
