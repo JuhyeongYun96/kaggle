@@ -1,4 +1,4 @@
-# top 9%(186th / 2265 teams, Private 0.53670, Public 0.43729)
+# top 9%(186th / 2265, Private 0.53670, Public 0.43729)
 
 I won my first kaggle bronze medal at the DFDC competition.
 
